@@ -53,11 +53,9 @@ I am a passionate developer who loves building impactful applications and learni
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RANISHKUMARV&theme=radical&hide_border=true" alt="Ranish's Streak" width="49%" />
 </p>
 
-<!-- NEW FRESH LANGUAGES CARD -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANISHKUMARV&layout=donut&theme=radical&hide_border=true&langs_count=5" alt="Top Languages" width="60%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RANISHKUMARV&layout=compact&theme=dark" alt="Your Top Languages" height="165" />
 </p>
-
 
 #### 📈 Contribution Graph
 <p align="center">
